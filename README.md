@@ -1,3 +1,3 @@
-# study-rtu-digital-humanities
+# homework_1
 homework#1 html basic
 readme.md
